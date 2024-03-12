@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=B+ Pin=LED1-1
+Removed Pin From Net: NetName=VBAT_U Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R10-2
+Removed Member From Class: ClassName=充放电模块V1 Member=LED1
+Removed Member From Class: ClassName=充放电模块V1 Member=R10
+Change Component Comment : Designator=R4 Old Comment=30K New Comment=1K
+Change Component Comment : Designator=C5 Old Comment=104 New Comment=0.1uF
+Added Pin To Net: NetName=B+ Pin=R9-2
+Change Class Name : Old Net Name=充放电模块V1 New Net Name=充放电模块V2
+Added Room: Name=充放电模块V2
